@@ -1,0 +1,17 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "cSpell.words": [
+        "depthwise",
+        "Depthwise",
+        "downsamplers",
+        "GELU",
+        "hdrr",
+        "kargs",
+        "mlps",
+        "Pointwise",
+        "randn",
+        "shma",
+        "SHMA"
+    ]
+}
