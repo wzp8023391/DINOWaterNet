@@ -29,3 +29,10 @@ DINOWaterNet-Software
 Link: https://pan.baidu.com/s/1LaaIqJ7IRvsRjrfoXe4jfA passkey: 1234 
 ```
 ![model structure](img/software.png)
+
+```python
+Author:  Wang Z, et al. 
+Title:   Large-scale Water Mapping in Complicated Scenarios with Optical Ultra High-resolution Remote Sensing Images and the DINO Foundation Model 
+Journal: Under Review. 
+Date:    2026
+```
